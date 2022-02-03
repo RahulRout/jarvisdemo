@@ -1,0 +1,16 @@
+.commentsection {
+    width: 100%;
+    height: 100%;
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+.commentcaption {
+    width: 100%;
+    min-height: 20px;
+    margin: 2px;
+    display: flex;
+    flex-direction: row;
+}

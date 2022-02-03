@@ -1,0 +1,27 @@
+.profilecontainer {
+    height: 45vh;
+    width: 350px;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-bottom: 30px;
+}
+.avatarview {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.infoview {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.buttonview {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
